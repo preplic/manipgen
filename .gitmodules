@@ -14,13 +14,13 @@
 	url = https://github.com/IDEA-Research/Grounded-Segment-Anything.git
 [submodule "industreallib"]
 	path = industreallib
-	url = git@github.com:mihdalal/industreallib.git
+	url = https://github.com/mihdalal/industreallib.git
 [submodule "pointnet2_ops"]
 	path = pointnet2_ops
-	url = git@github.com:upriyam-cmu/pointnet2_ops.git
+	url = https://github.com/upriyam-cmu/pointnet2_ops.git
 [submodule "tracikpy"]
 	path = tracikpy
-	url = git@github.com:mjd3/tracikpy.git
+	url = https://github.com/mjd3/tracikpy.git
 [submodule "manipgen_robomimic"]
 	path = manipgen_robomimic
 	url = https://github.com/mihdalal/robomimic
@@ -35,5 +35,5 @@
 	branch = skills_planning
 [submodule "robomimic"]
 	path = robomimic
-	url = git@github.com:mihdalal/robomimic.git
+	url = https://github.com/mihdalal/robomimic.git
 	branch = neural_mp_skills_planning
